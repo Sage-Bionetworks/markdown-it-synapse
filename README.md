@@ -1,3 +1,5 @@
+This repo has been archived since it has been moved into the [synapse-web-monorepo](https://github.com/Sage-Bionetworks/synapse-web-monorepo)
+
 # markdown-it-synapse
 
 [![Build Status](https://img.shields.io/travis/jay-hodgson/markdown-it-synapse/master.svg?style=flat)](https://travis-ci.org/jay-hodgson/markdown-it-synapse)
